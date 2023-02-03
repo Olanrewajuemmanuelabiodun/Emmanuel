@@ -1,33 +1,19 @@
+### Markdown
 
-# ***Markdown***
+&nbsp;&nbsp;&nbsp;*Markdown* is a _lightweight_ markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 
-Markdown
-====
+&nbsp;&nbsp;&nbsp;The initial description of Markdown[10] contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing ~~Markdown~~ contributors released CommonMark, an unambiguous specification and test suite for ***Markdown***.
 
-&nbsp;&nbsp;&nbsp;&nbsp;*Markdown* is a _lightweight_ markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. 
+![This is the logo of chelsea football club](https://raw.githubusercontent.com/Olanrewajuemmanuelabiodun/Emmanuel/main/500687926-chelsea-fc-v-fc-porto-uefa-champions-league.jpg 'Best club in England')
 
-&nbsp;&nbsp;&nbsp;&nbsp;~~The~~ initial description of Markdown[10] contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for ***Markdown***.
+Topic Include:
+* Lists
+* Tuple
+1. Objects
+2. Details
 
-#### Markdown Videos:  
-\- About Markdown  
-\- How to Learn with these videos  
-\- Paragraphs and Text  
-\- Headers  
-\- True
-- True
-- Game
-- Kudos
-* Answer
-   * Yes
-   * No
- 1. One
- 2. Two
- 3. Three
-    4. Numbers
-    5. Figures
-       6. Tables
-       7. Non-tables
- 
+
+
    
 
   
