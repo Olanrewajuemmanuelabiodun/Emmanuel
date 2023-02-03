@@ -13,3 +13,21 @@ Markdown
 \- How to Learn with these videos  
 \- Paragraphs and Text  
 \- Headers  
+\- True
+- True
+- Game
+- Kudos
+* Answer
+   * Yes
+   * No
+ 1. One
+ 2. Two
+ 3. Three
+    4. Numbers
+    5. Figures
+       6. Tables
+       7. Non-tables
+ 
+   
+
+  
